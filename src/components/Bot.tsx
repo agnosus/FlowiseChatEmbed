@@ -551,7 +551,6 @@ export const Bot = (botProps: BotProps & { class?: string }) => {
   );
 };
 
-
 type BottomSpacerProps = {
   ref: HTMLDivElement | undefined;
 };
